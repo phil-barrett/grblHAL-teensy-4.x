@@ -10,7 +10,7 @@ GRBL Breakout Board for Teensy 4. Uses the [grblHAL Teensy 4 version](https://gi
   * Relay voltage switchable between 5V and 12V. 
   * Dust Extraction relay output slaved to spindle.
   * Screw Terminal I/O for reliable connections.
-  * Full spindle control outputs – 5V CMOS compatible.
+  * Full spindle control outputs – 5V compatible.
   * 0-10V spindle control output.
   * I2C header.
   * EEPROM footprint for SOIC8 devices.
