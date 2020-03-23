@@ -1,8 +1,9 @@
 # grbl-teensy-4
 GRBL Header for Teensy 4. Uses grblHAL Teensy 4 version.
 
-## Features:
+![T4 Breakout Board](https://github.com/phil-barrett/grbl-teensy-4/blob/master/PCB%20V100.jpg?raw=true "T4 Breakout Board")
 
+## Features:
   * 4 Axis control outputs – 5V Compatible.
   * 8 Opto-isolated inputs.
   * 7 Relay Outputs.
