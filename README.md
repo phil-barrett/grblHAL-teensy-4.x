@@ -1,5 +1,5 @@
 # grbl-teensy-4
-GRBL Header for Teensy 4. Uses grblHAL Teensy 4 version.
+GRBL Header for Teensy 4. Uses the [grblHAL Teensy 4 version](https://github.com/terjeio/grblHAL).
 
 ![T4 Breakout Board](https://github.com/phil-barrett/grbl-teensy-4/blob/master/PCB%20V100.jpg?raw=true "T4 Breakout Board")
 
