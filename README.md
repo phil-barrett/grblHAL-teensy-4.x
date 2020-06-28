@@ -39,10 +39,10 @@ The two versions currently share a common schematic and PCB layout. This may not
 Currently being edited. Contains assembly instructions for the "Unkit" version and Bill of Materials. Check back here for availability.
 
 ### OSHPark PCB
-[Available here](https://oshpark.com/shared_projects/QWr3OZUe)
+[Available here](https://oshpark.com/shared_projects/QWr3OZUe) This fairly expensive. For a less costly approach, you can use the Gerber files below.
 
 ### Gerbers
-[Gerbers are available here.](https://github.com/phil-barrett/grbl-teensy-4/blob/master/teensy%204.1x207.zip)
+[Gerbers are available here.](https://github.com/phil-barrett/grbl-teensy-4/blob/master/teensy%204.1x207.zip) Board size is 85 x 95 mm, 2 layer, 1.6 mm thickness.
 
 
 ## Previous Version
