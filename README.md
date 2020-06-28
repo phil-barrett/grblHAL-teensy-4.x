@@ -42,7 +42,7 @@ Currently being edited. Contains assembly instructions for the "Unkit" version a
 [Available here](https://oshpark.com/shared_projects/QWr3OZUe)
 
 ### Gerbers
-Gerbers will be made available. Check back here for availability.
+[Gerbers are available here.](https://github.com/phil-barrett/grbl-teensy-4/blob/master/teensy%204.1x207.zip)
 
 
 ## Previous Version
