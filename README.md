@@ -16,7 +16,7 @@ Lots of new features!
   * 5 Axis control outputs – 5V compatible.
   * Independent enables for each axis.
   * 10 Opto-isolated inputs including standard GRBL controls and limits switches for all axes.
-  * 7 Relay Outputs – Spindle, Mist Coolant, Flood Coolant, Dust Extraction and 3 auxiliary relays. Each output can control a relay coil directly or 5V TTL (SSR compatible) devices.
+  * 7 Relay Outputs – Spindle, Mist Coolant, Flood Coolant, Dust Collector and 3 auxiliary relays. Each output can control a relay coil directly or 5V TTL (SSR compatible) devices.
   * Dust Extraction relay support. Activated by spindle enable.
   * Separate control of Dust Collector relay via pin header.
   * Relay coil voltage switchable between 5V and 12V. 
