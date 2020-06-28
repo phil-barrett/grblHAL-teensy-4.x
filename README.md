@@ -31,6 +31,9 @@ Lots of new features!
   * Ethernet interface. (T41E5XBB only)
   * Serial I/O Header
 
+## Schematic
+The two versions currently share a common schematic and PCB layout. This may not be the case in the future. [Schematic is here.](https://github.com/phil-barrett/grbl-teensy-4/blob/master/v2.07%20schematic.pdf)
+
 ## Previous Version
 ![T4 Breakout Board](https://github.com/phil-barrett/grbl-teensy-4/blob/master/PCB%20V100.jpg?raw=true "T4 Breakout Board")
 
