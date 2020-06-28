@@ -1,9 +1,9 @@
 # grbl-teensy-4
-GRBL Breakout Board for Teensy 4.x Uses the [grblHAL Teensy 4 version](https://github.com/terjeio/grblHAL).
+GRBL Breakout Boards for Teensy 4.x Uses the [grblHAL Teensy 4 version](https://github.com/terjeio/grblHAL).
 
 ## June 28, 2020. New Versions!
 
-I am putting the finishing touches on 2 new 5 axis versions based on the Teensy 4.1. One supports an Ethernet interface and the other supports a USB interface. I will be making a few boards avalable with all the surface mount components installed.  I haven't finalized pricing but probably in the mid-$20 range. Check back here for more details.
+I am putting the finishing touches on 2 new 5 axis versions based on the Teensy 4.1. One supports an Ethernet interface and the other supports a USB interface. I will be making a few "Unkit" boards avalable. These have all the surface mount components installed (with the execption of the EEPROM IC).  I haven't finalized pricing but probably in the mid-$20 range. Check back here for more details.
 
 T41U5XBB - USB based version.  
 ![T4.1 BreakoutBoard](https://github.com/phil-barrett/grbl-teensy-4/blob/master/R6278732_DxO.jpg?raw=true "T4.1 USB Breakout Board - T41U5XBB")
@@ -31,8 +31,19 @@ Lots of new features!
   * Ethernet interface. (T41E5XBB only)
   * Serial I/O Header
 
-## Schematic
+## Documentation
+### Schematic
 The two versions currently share a common schematic and PCB layout. This may not be the case in the future. [Schematic is here.](https://github.com/phil-barrett/grbl-teensy-4/blob/master/v2.07%20schematic.pdf)
+
+### Manual
+Currently being edited. Contains assembly instructions for the "Unkit" version and Bill of Materials. Check back here for availability.
+
+### OSHPark PCB
+[Available here](https://oshpark.com/shared_projects/QWr3OZUe)
+
+### Gerbers
+Gerbers will be made available. Check back here for availability.
+
 
 ## Previous Version
 ![T4 Breakout Board](https://github.com/phil-barrett/grbl-teensy-4/blob/master/PCB%20V100.jpg?raw=true "T4 Breakout Board")
