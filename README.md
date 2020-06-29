@@ -38,7 +38,7 @@ The two versions currently share a common schematic and PCB layout. This may not
 ### Manual
 Currently being edited. Contains assembly instructions for the "Unkit" version and Bill of Materials. Check back here for availability.
 
-### OSHPark PCB
+### Bare PCB from OSHPark
 [Available here](https://oshpark.com/shared_projects/QWr3OZUe) This is fairly expensive. For a less costly approach, you can use the Gerber files below to order from more cost effective fabs.
 
 ### Gerbers
