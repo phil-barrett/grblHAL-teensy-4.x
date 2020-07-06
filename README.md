@@ -33,6 +33,9 @@ Lots of new features!
   * Ethernet interface. (T41E5XBB only)
   * Serial I/O Header
 
+## Firmware
+grblHAL pre-built firmware to directly load into the Teensy 4.1 [is available here.](https://github.com/phil-barrett/grbl-teensy-4/blob/master/configurations.zip)
+
 ## Documentation
 ### Schematic
 The two versions currently share a common schematic and PCB layout. This may not be the case in the future. [Schematic is here.](https://github.com/phil-barrett/grbl-teensy-4/blob/master/v2.07%20schematic.pdf)
