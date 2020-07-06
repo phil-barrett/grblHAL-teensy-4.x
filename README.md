@@ -47,8 +47,10 @@ The [User Manual is available here.](https://github.com/phil-barrett/grbl-teensy
 [Available here](https://oshpark.com/shared_projects/QWr3OZUe) This is fairly expensive. For a less costly approach, you can use the Gerber files below to order from more cost effective fabs.
 
 ### Gerbers
-[Gerbers are available here.](https://github.com/phil-barrett/grbl-teensy-4/blob/master/teensy%204.1x207.zip) Board size is 85 x 95 mm, 2 layer, 1.6 mm thickness.
+[Gerbers are available here.](https://github.com/phil-barrett/grbl-teensy-4/blob/master/teensy%204.1x207.zip) Board size is 85 x 96 mm, 2 layer, 1.6 mm thickness.
 
+### Build Guide
+A brief guide to building grblHAL from source [for the breakout board is here](https://github.com/phil-barrett/grbl-teensy-4/blob/master/grblHAL%20Build%20Guide.pdf).
 
 ## Previous Version
 ![T4 Breakout Board](https://github.com/phil-barrett/grbl-teensy-4/blob/master/PCB%20V100.jpg?raw=true "T4 Breakout Board")
