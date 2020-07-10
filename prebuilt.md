@@ -2,7 +2,7 @@
 
 ### Loading Firmware onto a Teensy 4.1
 Follow these basic steps:
-1. Download the [firmware configurations file](https://www.pjrc.com/teensy/loader.html) and extract the contents.
+1. Download the [firmware configurations file](https://github.com/phil-barrett/grblHAL-teensy-4.x/blob/master/configurations.zip) and extract the contents.
 2. Select the .hex file that coresponds to the features you will use.
 3. Obtain the Teensy Loader for your platform.
 4. Use the loader to load the .hex file into your Teensy.
