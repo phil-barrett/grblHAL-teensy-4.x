@@ -34,7 +34,7 @@ Lots of new features!
   * Serial I/O Header
 
 ## Firmware
-grblHAL pre-built firmware to directly load into the Teensy 4.1 [is available here.](https://github.com/phil-barrett/grbl-teensy-4/blob/master/configurations.zip)
+Prebuilt versions of grblHAL are available to directly load into the Teensy 4.1 [Follow the instructions here.](https://github.com/phil-barrett/grblHAL-teensy-4.x/blob/master/prebuilt.md)
 
 ## Documentation
 ### Schematic
