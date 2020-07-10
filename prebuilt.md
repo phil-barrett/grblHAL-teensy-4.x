@@ -1,6 +1,7 @@
 ## Prebuilt Firmware
 ### Available Versions
 These are found in [configurations.zip](https://github.com/phil-barrett/grblHAL-teensy-4.x/blob/master/configurations.zip).
+
 "3 axis usb quad enc.hex" - 3 Axis, Aux Relays, Quadrature Encoder
 
 "3 axis usb no opts.hex" - 3 Axis, Aux Relays
