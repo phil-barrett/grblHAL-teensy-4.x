@@ -1,17 +1,26 @@
 ## Prebuilt Firmware
 ### Available Versions
 "3 axis usb quad enc.hex" - 3 Axis, Aux Relays, Quadrature Encoder
+
 "3 axis usb no opts.hex" - 3 Axis, Aux Relays
+
 "4 axis usb quad enc.hex" - 4 Axis, Aux Relays, Quadrature Encoder
+
 "4 axis usb no opts.hex" - 4 Axis, Aux Relays
+
 "5 axis usb quad enc.hex" - 5 Axis, Aux Relays, Quadrature Encoder
+
 "5 axis usb no opts.hex" - 5 Axis, Aux Relays
 
 ### Options
 n Axis - number of axes
+
 usb - USB interface
+
 quad enc - Quadrature encoder on digital inputs. Supports spindle and feed rate override.
+
 no opts - basic support
+
 
 More options will be added in the future.
 
