@@ -6,13 +6,19 @@ These are found in [configurations.zip](https://github.com/phil-barrett/grblHAL-
 
 "3 axis usb no opts.hex" - 3 Axis, Aux Relays
 
-"4 axis usb quad enc.hex" - 4 Axis, Aux Relays, Quadrature Encoder
+"3 axis usb compat" - 3 Axis, no options, compatibility with older senders.
 
-"4 axis usb no opts.hex" - 4 Axis, Aux Relays
+"4 axis usb quad enc" - 4 Axis, Aux Relays, Quadrature Encoder
 
-"5 axis usb quad enc.hex" - 5 Axis, Aux Relays, Quadrature Encoder
+"4 axis usb no opts" - 4 Axis, Aux Relays
 
-"5 axis usb no opts.hex" - 5 Axis, Aux Relays
+"4 axis usb compat" - 4 Axis, no options, compatibility with older senders.
+
+"5 axis usb quad enc" - 5 Axis, Aux Relays, Quadrature Encoder
+
+"5 axis usb no opts" - 5 Axis, Aux Relays
+
+"5 axis usb compat" - 5 Axis, no options, compatibility with older senders.
 
 ### Options
 n Axis - number of axes
@@ -23,6 +29,7 @@ quad enc - Quadrature encoder on digital inputs. Supports spindle and feed rate 
 
 no opts - basic support
 
+Compat - Sender compatibility.  disables new features of grblHAL and maintains compatibility with senders.
 
 More options will be added in the future.
 
