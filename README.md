@@ -1,6 +1,10 @@
 # grbl-teensy-4
 GRBL Breakout Boards for Teensy 4.x Uses the [grblHAL Teensy 4 version](https://github.com/terjeio/grblHAL).
 
+## Sept 29, 2020. Ethernet Support Added
+
+grblHAL support for Ethernet is now pretty solid.  I have updated the [User Manual](https://github.com/phil-barrett/grblHAL-teensy-4.x/blob/master/T41U5XBB%20v207.pdf) to include instructions on using Ethernet. 
+
 ## June 28, 2020. New Versions!
 
 I have finished 2 new 5 axis versions based on the Teensy 4.1. One supports an Ethernet interface and the other supports a USB interface. I will be making a few "Unkit" boards avalable. These have all the surface mount components installed (with the execption of the EEPROM IC). Teensy 4.1 not included. The price is $25.99 USD. [It is available on Tindie.](https://www.tindie.com/products/philba/grblhal-breakout-board-unkit-for-teensy-41/)  There are a limited number but if there is enough interest, I will reorder more.
