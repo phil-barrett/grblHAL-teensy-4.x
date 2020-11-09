@@ -1,6 +1,6 @@
 ## Prebuilt Firmware
 ### Available Versions
-These are found in [configurations.zip](https://github.com/phil-barrett/grblHAL-teensy-4.x/blob/master/configurations.zip).
+These are found in [configurations.zip](https://github.com/phil-barrett/grblHAL-teensy-4.x/blob/master/configurations.zip).  
 
 "3 axis usb quad enc" - 3 Axis, Aux Relays, Quadrature Encoder
 
@@ -20,6 +20,18 @@ These are found in [configurations.zip](https://github.com/phil-barrett/grblHAL-
 
 "5 axis usb compat" - 5 Axis, no options, compatibility with older senders.
 
+Ethernet versions are found in [ethernet_configurations.zip](https://github.com/phil-barrett/grblHAL-teensy-4.x/blob/master/ethernet_configurations.zip).
+
+"3 axis eth quad end" - 3 Axis, Ethernet, Quadrature Encoder
+
+"3 axis gangY eth quad enc" - 3 Axis, Axis B ganged to Y, Ethernet, Quadrature Encoder
+
+"4 axis eth quad enc" - 4 Axis, Ethernet, Quadrature Encoder
+
+"4 axis gangY eth quad enc" -4 Axis, Axis B ganged to Y, Ethernet, Quadrature Encoder
+
+"5 axis eth quad enc" - 5 Axis, Ethernet, Quadrature Encoder
+
 ### Options
 n Axis - number of axes
 
@@ -30,6 +42,8 @@ quad enc - Quadrature encoder on digital inputs. Supports spindle and feed rate 
 no opts - basic support
 
 Compat - Sender compatibility.  disables new features of grblHAL and maintains compatibility with senders.
+
+eth - Ethernet support
 
 More options will be added in the future.
 
