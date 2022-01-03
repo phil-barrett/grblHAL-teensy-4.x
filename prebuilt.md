@@ -1,49 +1,44 @@
 ## Prebuilt Firmware
 ### Available Versions
-These are found in [configurations.zip](https://github.com/phil-barrett/grblHAL-teensy-4.x/blob/master/configurations.zip).  
+These are found in [configurations.zip](https://github.com/phil-barrett/grblHAL-teensy-4.x/blob/master/configurations.zip).   There are no USB only versions anymore.  These versions all work with USB or Ethernet. At this time, we do not recommend using the compat versions - you should use one of the many GCode Senders that work with grblHAL. If you need compatibility mode and other options, you will need to install the source from github and build it.
 
-"3 axis usb quad enc" - 3 Axis, Aux Relays, Quadrature Encoder
+"3X qei" - 3 Axis, Aux Relays, Quadrature Encoder
 
-"3 axis usb no opts" - 3 Axis, Aux Relays
+"3X qangY qei" - 3 Axis, Aux Relays, Quadrature Encoder
 
-"3 axis usb compat" - 3 Axis, no options, compatibility with older senders.
+"3X qangY AutoSq qei" - 3 Axis, Aux Relays, Quadrature Encoder
 
-"4 axis usb quad enc" - 4 Axis, Aux Relays, Quadrature Encoder
+"3X qangY AutoSq qei SDCard Keypad" - 3 Axis, Aux Relays, Quadrature Encoder
 
-"4 axis usb no opts" - 4 Axis, Aux Relays
+"3X compat" - 3 Axis, no options, compatibility with older senders.
 
-"4 axis usb compat" - 4 Axis, no options, compatibility with older senders.
+"4X qei" - 4 Axis, Aux Relays, Quadrature Encoder
 
-"5 axis usb quad enc" - 5 Axis, Aux Relays, Quadrature Encoder
+"4X gangY qei" - 4 Axis, Aux Relays, Quadrature Encoder
 
-"5 axis usb no opts" - 5 Axis, Aux Relays
+"4X gangY AutoSq qei" - 4 Axis, Aux Relays, Quadrature Encoder
 
-"5 axis usb compat" - 5 Axis, no options, compatibility with older senders.
+"4X gangY AutoSq qei SDCard Keypad" - 4 Axis, Aux Relays, Quadrature Encoder
 
-Ethernet versions are found in [ethernet_configurations.zip](https://github.com/phil-barrett/grblHAL-teensy-4.x/blob/master/ethernet_configurations.zip).
+"4X compat" - 4 Axis, no options, compatibility with older senders.
 
-"3 axis eth quad end" - 3 Axis, Ethernet, Quadrature Encoder
+"5X qei SDCard Keypad" - 5 Axis, Aux Relays, Quadrature Encoder
 
-"3 axis gangY eth quad enc" - 3 Axis, Axis B ganged to Y, Ethernet, Quadrature Encoder
+"5X compat" - 5 Axis, no options, compatibility with older senders.
 
-"4 axis eth quad enc" - 4 Axis, Ethernet, Quadrature Encoder
-
-"4 axis gangY eth quad enc" -4 Axis, Axis B ganged to Y, Ethernet, Quadrature Encoder
-
-"5 axis eth quad enc" - 5 Axis, Ethernet, Quadrature Encoder
 
 ### Options
-n Axis - number of axes
+nX - number of axes
 
-usb - USB interface
+gangY - Y Motor is ganged with A (if 3 Axis) or B (if 4 Axis)
 
-quad enc - Quadrature encoder on digital inputs. Supports spindle and feed rate override.
-
-no opts - basic support
+qei - Quadrature encoder on digital inputs. Supports spindle and feed rate override.
 
 Compat - Sender compatibility.  disables new features of grblHAL and maintains compatibility with senders.
 
-eth - Ethernet support
+SDCard - SDCard support
+
+Keypad - keypad support
 
 More options will be added in the future.
 
