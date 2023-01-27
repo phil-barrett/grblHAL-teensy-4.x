@@ -1,4 +1,31 @@
 ## Prebuilt Firmware
+
+### Prebuilt Firmware depreciated
+With advent of the Web Builder, it is very easy to build custom versions of grblHAL firmware.  As such, there is no need for prebuilt versions. We will leave the current files available but highly recommend moving to the [grblHAL Web Builder](http://svn.io-engineering.com:8080/). For more information, take a look at a brief [tutorial on the grblHAL Web Builder]().
+
+Some Web Builder configuration files are [located here](https://github.com/phil-barrett/grblHAL-teensy-4.x/blob/master/iMXRT1062_T41U5XBB-files.zip). Download and extract the file that reflects your machine. If one does not meet you exact needs, choose the one that is closest and modify it.
+
+Here are the configuration files that are available:
+iMXRT1062_T41U5XBB-3X.json - 3 Axis
+
+iMXRT1062_T41U5XBB-3X-qangY.json - 3 Axis, Gang Y
+
+iMXRT1062_T41U5XBB-3X-AutoSqY.json - 3 Axis, Auto-Square Y
+
+iMXRT1062_T41U5XBB-3X-AutoSqY-SDCard-Keypad.json - 3 Axis, Auto Square Y, SDCard, Keypad
+
+iMXRT1062_T41U5XBB-4X.json - 4 Axis
+
+iMXRT1062_T41U5XBB-4X gangY.json - 4 Axis, Gang Y
+
+iMXRT1062_T41U5XBB-4X-AutoSqY.json - 4 Axis, Auto-Square Y
+
+iMXRT1062_T41U5XBB-4X-AutoSqY-SDCard-Keypad.json - 4 Axis, Auto-Square Y, SDCard, Keypad
+
+iMXRT1062_T41U5XBB-5X-SDCard-Keypad.json - 5 Axis, SDCard, Keypad
+
+
+Depreciated text follows.
 ### Available Versions
 These are found in [configurations.zip](https://github.com/phil-barrett/grblHAL-teensy-4.x/blob/master/configurations.zip).   There are no USB only versions anymore.  These versions all work with USB or Ethernet. At this time, we do not recommend using the compat versions - you should use one of the many GCode Senders that work with grblHAL. If you need compatibility mode and other options, you will need to install the source from github and build it.
 
