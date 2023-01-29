@@ -3,7 +3,9 @@
 ### Prebuilt Firmware depreciated
 With advent of the Web Builder, it is very easy to build custom versions of grblHAL firmware.  As such, there is no need for prebuilt versions. We will leave the current files available but highly recommend moving to the [grblHAL Web Builder](http://svn.io-engineering.com:8080/). For more information, take a look at a brief [tutorial on the grblHAL Web Builder](https://www.grbl.org/single-post/using-the-grblhal-web-builder).
 
-Some Web Builder configuration files are [located here](https://github.com/phil-barrett/grblHAL-teensy-4.x/blob/master/iMXRT1062_T41U5XBB-files.zip). Download and extract the file that reflects your machine. If one does not meet you exact needs, choose the one that is closest and modify it.
+
+### Using the Web Builder
+Some Web Builder configuration files are [located here](https://github.com/phil-barrett/grblHAL-teensy-4.x/blob/master/iMXRT1062_T41U5XBB-files.zip). Download and extract the file that reflects your machine. Use the Load Board button to load the .json file. If one does not meet you exact needs, choose the one that is closest and modify it.
 
 Here are the configuration files that are available:
 iMXRT1062_T41U5XBB-3X.json - 3 Axis
