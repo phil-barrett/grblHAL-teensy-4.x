@@ -8,6 +8,7 @@ With advent of the Web Builder, it is very easy to build custom versions of grbl
 Some Web Builder configuration files are [located here](https://github.com/phil-barrett/grblHAL-teensy-4.x/blob/master/iMXRT1062_T41U5XBB-files.zip). Download and extract the file that reflects your machine. Use the Load Board button to load the .json file. If one does not meet you exact needs, choose the one that is closest and modify it.
 
 Here are the configuration files that are available:
+
 iMXRT1062_T41U5XBB-3X.json - 3 Axis
 
 iMXRT1062_T41U5XBB-3X-qangY.json - 3 Axis, Gang Y
