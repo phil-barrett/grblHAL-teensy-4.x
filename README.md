@@ -1,6 +1,9 @@
 # grbl-teensy-4
 GRBL Breakout Boards for Teensy 4.x Uses the [grblHAL Teensy 4 version](https://github.com/terjeio/grblHAL).
 
+# Resources for grblHAL, T41U5XBB and related CNC topics
+[Reousece](https://www.grbl.org/resources)
+
 ## Oct 15, 2020.  V2.09 is now available.
 A small number of changes, mostly cosmetic. Also added mounting holes for I2C and Serial I/O daughter boards. [Now available on Tindie.](https://www.tindie.com/products/philba/grblhal-breakout-board-unkit-for-teensy-41/) 
 ![T4.1 BreakuoutBoard](https://github.com/phil-barrett/grbl-teensy-4/blob/master/RA159231_DxO_2048.jpg "V2.09 Unkit PCB")
