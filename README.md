@@ -7,6 +7,8 @@ GRBL Breakout Boards for Teensy 4.x Uses the [grblHAL Teensy 4 version](https://
 Upgraded to AHCT drivers.
 Upgraded to EL3H7 optoisolators.
 Added board level configuration to support spindle sync. See user manual for details.
+![T41U5XBB V2.10](https://github.com/phil-barrett/grblHAL-teensy-4.x/blob/master/Images/teensy%204.1x210-dbv.png)
+
 
 ## Aug 20, 2025.  V2.10 is now available.
 Trimmer potentiometer moved onto PCB, unneeded features removed and some cosmetic changes.  Now using KiCAD instead of Eagle. V2.11 is coming but is functionally the same as V2.10 (minor slik screen changes).  [User Manual](https://github.com/phil-barrett/grblHAL-teensy-4.x/blob/master/T41U5XBB%20User%20Manual.pdf) updated. 
