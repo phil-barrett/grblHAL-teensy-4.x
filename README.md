@@ -7,7 +7,7 @@ GRBL Breakout Boards for Teensy 4.x Uses the [grblHAL Teensy 4 version](https://
 Upgraded to AHCT drivers.
 Upgraded to EL3H7 optoisolators.
 Added board level configuration to support spindle sync. See user manual for details.
-![T41U5XBB V2.10](https://github.com/phil-barrett/grblHAL-teensy-4.x/blob/master/Images/teensy%204.1x210-dbv.png)
+![T41U5XBB V2.10](https://github.com/phil-barrett/grblHAL-teensy-4.x/blob/master/UA315997_DxO.jpg).
 
 
 ## Aug 20, 2025.  V2.10 is now available.
